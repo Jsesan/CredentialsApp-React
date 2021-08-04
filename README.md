@@ -1,0 +1,15 @@
+# CredentialsApp-React
+
+- [Forward Refs](https://github.com/Jsesan/CredentialsApp-React/commit/5abae634d078ea53999d7ac77ff594aee858fe92)
+- [added Input component](https://github.com/Jsesan/CredentialsApp-React/commit/5d96bf9d38a7977213b2b9c8d4f2dab62a389b93)
+- [Custom CONTEXT Provider Component](https://github.com/Jsesan/CredentialsApp-React/commit/2f33c56dc3045ede5660d955b2051f86c9d9b891)
+- [Making context dynamic](https://github.com/Jsesan/CredentialsApp-React/commit/6b8f145297fbac48a9a08a98d152dce75f8eb584)
+- [Context API with useContext() hook](https://github.com/Jsesan/CredentialsApp-React/commit/a5c303910022c3cc57dca57a19d08fe3f338a172)
+- [Context API with Consumer](https://github.com/Jsesan/CredentialsApp-React/commit/a3b272b62cdf7293319f2de19e3d6bf539769393)
+- [useReducer & useEffect](https://github.com/Jsesan/CredentialsApp-React/commit/7ac20035d2d06d9bdd7899e07a05de609dcc0cba)
+- [useReducer for password](https://github.com/Jsesan/CredentialsApp-React/commit/34d35e5e1ef812b3b83305e090d2cac0f90dd489)
+- [UseReducer() for email](https://github.com/Jsesan/CredentialsApp-React/commit/5f24afcde9b34f6877266f2635876b1d6a70e8a3)
+- [useEffect Cleanup Function](https://github.com/Jsesan/CredentialsApp-React/commit/a93c0d30f0730024c0058c7a87602c1673399eed)
+- [useEffect & Dependencies](https://github.com/Jsesan/CredentialsApp-React/commit/22daa6e4d591c9a26ad6494794e5bc1ba10258c3)
+- [useEffect() Hook](https://github.com/Jsesan/CredentialsApp-React/commit/06ff0f662a6914f40ab1cb668aaa7c957ea0c36a)
+- [FStart of the project](https://github.com/Jsesan/CredentialsApp-React/commit/6824662aa7ad3f27f39ef460e7931d4716d7f2ff)
